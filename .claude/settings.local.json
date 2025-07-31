@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(go mod:*)",
+      "Bash(go:*)",
+      "WebFetch(domain:etherscan.io)",
+      "Bash(GOPATH=/Users/lordbritishix/src/yield go build ./test/...)",
+      "Bash(ls:*)"
+    ],
+    "deny": []
+  }
+}
